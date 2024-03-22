@@ -1,0 +1,23 @@
+h2 {
+    color: white;
+    background-color: orange;
+    background-position:center;
+    background-size: cover;
+    text-align: left;
+    text-decoration: none;
+}
+
+p {
+    color: black;
+    text-align: left;
+    background-color: white;
+    font: size 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    color: blue;
+    background-color:gold;
+}
+
+
