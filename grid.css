@@ -1,0 +1,11 @@
+.grid container {
+    display: block;
+    grid-template-columns: auto;
+    background-color: red;
+    padding: 10px;
+
+    .grid item {
+        background-color: blue;
+
+    }
+}

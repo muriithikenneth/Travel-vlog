@@ -1,0 +1,6 @@
+let str1= "Anjela";
+let str2 = "Wanjiru";
+
+let str3 = str1 + srt2;
+
+console.log(str3);

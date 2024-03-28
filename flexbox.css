@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+    ;
+}
+footer{
+    color: pink;
+    position:fixed;   
+}
+header{
+    background-color: blue;
+    color:green;
+    text-align: right;
+}
+
